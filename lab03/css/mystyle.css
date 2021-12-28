@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    background-color: rgb(245, 243, 143);
+}
+
+h1{
+    color: rgb(236, 33, 33);
+}
+
+h3{
+    border: 5px solid red;
+  margin: 5px 0;
+}
+
+    table {
+        border-spacing: 0.5rem;
+    }
+    td {
+        padding: 0.5rem;
+    }
+    
+    td:nth-child(1) { background: hsl(150, 50%, 50%); }
+    td:nth-child(2) { background: hsl(160, 60%, 50%); }
+    td:nth-child(3) { background: hsl(170, 70%, 50%); }
+    td:nth-child(4) { background: hsl(180, 80%, 50%); }
+    td:nth-child(5) { background: hsl(190, 90%, 50%); }
